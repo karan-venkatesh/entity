@@ -12,6 +12,7 @@ func init() {
 
 // Going live
 func RandomNum() int{
-	return rand.Intn(10)
+	// return rand.Intn(10)
+    return 100
 }
 
