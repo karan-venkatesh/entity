@@ -12,6 +12,6 @@ func init() {
 
 
 func RandomNum() int{
-	return rand.Intn(3)
+	return rand.Intn(10)
 }
 
