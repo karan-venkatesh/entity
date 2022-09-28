@@ -1,8 +1,6 @@
-package spawn
+package entity
 
 import (
-    // "errors"
-    // "fmt"
     "math/rand"
     "time"
 )
