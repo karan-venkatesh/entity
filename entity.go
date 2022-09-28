@@ -10,7 +10,7 @@ func init() {
     rand.Seed(time.Now().UnixNano())
 }
 
-
+// Going live
 func RandomNum() int{
 	return rand.Intn(10)
 }
